@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name BCM20737S)(type KiCad)(uri "$(KIPRJMOD)/BCM20737S.pretty")(options "")(descr ""))
+  (lib (name CR2032_frame)(type KiCad)(uri "$(KIPRJMOD)/CR2032_frame.pretty")(options "")(descr ""))
+  (lib (name simple_headers)(type KiCad)(uri "$(KIPRJMOD)/simple_headers.pretty")(options "")(descr ""))
+  (lib (name logos)(type KiCad)(uri "$(KIPRJMOD)/logos.pretty")(options "")(descr ""))
+)
