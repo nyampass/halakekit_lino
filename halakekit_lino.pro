@@ -1,4 +1,4 @@
-update=2016年12月01日 14時30分10秒
+update=2016年12月07日 23時09分08秒
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,13 @@ LibName28=contrib
 LibName29=valves
 LibName30=bcm20737s
 LibName31=lib_w_connectors/w_connectors
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
