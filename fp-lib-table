@@ -3,4 +3,5 @@
   (lib (name CR2032_frame)(type KiCad)(uri "$(KIPRJMOD)/CR2032_frame.pretty")(options "")(descr ""))
   (lib (name simple_headers)(type KiCad)(uri "$(KIPRJMOD)/simple_headers.pretty")(options "")(descr ""))
   (lib (name logos)(type KiCad)(uri "$(KIPRJMOD)/logos.pretty")(options "")(descr ""))
+  (lib (name register_and_condensor)(type KiCad)(uri "$(KIPRJMOD)/register_and_condensor.pretty")(options "")(descr ""))
 )
