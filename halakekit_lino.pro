@@ -1,4 +1,4 @@
-update=2016年12月27日 12時22分00秒
+update=2017年01月09日 15時43分13秒
 version=1
 last_client=kicad
 [pcbnew]
@@ -69,5 +69,7 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=bcm20737s
-LibName32=lib_w_connectors/w_connectors
+LibName31=lib_w_connectors/w_connectors
+LibName32=MDBT40
+LibName33=rtf015n03
+LibName34=njm2870

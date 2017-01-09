@@ -7,5 +7,7 @@ A KiCad project for HaLakeKitLino.
 MIT
 
 # References
-- [BCM20737S datasheet](http://www.mouser.com/pdfdocs/002-14888_BCM20737S-BluetoothLowEnergySystem-in-PackageSiPModule.pdf)
-- [koshian getting started](http://www.m-pression.com/ja/c/document_library/get_file?uuid=3a008214-3e77-4b87-8f7e-8b81d5f3aef2&groupId=10157)
+- [BLE nano](http://redbearlab.com/blenano/)
+- [BLE nano schematic](https://github.com/RedBearLab/BLENano/tree/master/PCB)
+- [KiCAD_Libraries/PCB/RF_Modules.pretty/MDBT40.kicad_mod](https://github.com/CascoLogix/KiCAD_Libraries/blob/master/PCB/RF_Modules.pretty/MDBT40.kicad_mod)
+- [MDBT40 @tinyosshop](http://www.tinyosshop.com/index.php?route=product/product&product_id=970)
