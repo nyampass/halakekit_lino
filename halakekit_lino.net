@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/asuki/kicad/halakekit_lino/halakekit_lino.sch)
-    (date "2017年01月09日 17時52分07秒")
+    (date "2017年01月09日 18時30分01秒")
     (tool "Eeschema 4.0.2+dfsg1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -53,7 +53,7 @@
       (tstamp 5870542C))
     (comp (ref C4)
       (value 4.7uf1)
-      (footprint Capacitors_SMD:C_1812)
+      (footprint register_and_condensor:C_0603)
       (libsource (lib device) (part C))
       (sheetpath (names /) (tstamps /))
       (tstamp 583F839F))
@@ -217,14 +217,14 @@
         (pin (num 2) (name Source) (type input))
         (pin (num 3) (name Drain) (type input)))))
   (libraries
-    (library (logical njm2870)
-      (uri /home/asuki/kicad/halakekit_lino/njm2870.lib))
     (library (logical rtf015n03)
       (uri /home/asuki/kicad/halakekit_lino/rtf015n03.lib))
-    (library (logical w_connectors)
-      (uri /home/asuki/kicad/halakekit_lino/lib_w_connectors/w_connectors.lib))
+    (library (logical njm2870)
+      (uri /home/asuki/kicad/halakekit_lino/njm2870.lib))
     (library (logical device)
       (uri /usr/share/kicad/library/device.lib))
+    (library (logical w_connectors)
+      (uri /home/asuki/kicad/halakekit_lino/lib_w_connectors/w_connectors.lib))
     (library (logical MDBT40)
       (uri /home/asuki/kicad/halakekit_lino/MDBT40.lib)))
   (nets
