@@ -1,7 +1,7 @@
 # HaLakeKitLinoPCB
 A KiCad project for HaLakeKitLino.
 
-![HaLakeKitLino image](/docs/halakekit_lino_front.png)
+![HaLakeKitLino image](/kicad/docs/halakekit_lino_front.png)
 
 # License
 MIT
