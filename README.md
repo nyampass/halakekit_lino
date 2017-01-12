@@ -1,7 +1,7 @@
 # HaLakeKitLino
 A BLE module.
 
-![HaLakeKitLino image](/kicad/docs/halakekit_lino_front.png)
+![HaLakeKitLino image](/pcb/docs/halakekit_lino_front.png)
 
 # PCB
 ## Software
