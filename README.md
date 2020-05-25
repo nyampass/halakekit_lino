@@ -17,9 +17,9 @@ This PCB was designed on KiCad.
 - 0.1uf condensor
 - 0.01uf condensor
 - 12pf condensor * 2
-- 1K register * 2
+- 1K resister * 2
 
-Size of chip condensors and registers are all 0603.
+Size of chip condensors and resisters are all 0603.
 
 # License
 MIT
